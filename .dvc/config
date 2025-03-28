@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = C:\Users\mohdm\AppData\Local\Temp\mlops\vc-pipeline-emotion-detection
